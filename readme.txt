@@ -1,0 +1,1 @@
+Program pobiera informacje o promocjach z 3 sklepów. Następnie wysyła dane z najniższymi cenami w postaci tabeli w mailu oraz załącznika w formacie excela. Pierwsze trzy pliki to scrapery poszczególnych sklepów, czwarty łączy dane ze sobą i generuje wiadomość. Do działania trzeciego pliku w folderze należy umieścić chromedriver odpowiadający wersji przeglądarki.
